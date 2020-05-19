@@ -27,7 +27,7 @@ Well so to say, following are the attributes may fit in my dictionary
     }  
 
 Run:
-You can run the above code and see the output using the playground link https://bit.ly/3dVdBDd
+You can run the above code and see the output using the playground link [https://bit.ly/3dVdBDd](https://bit.ly/3dVdBDd)
 
 Credits:
 Without these tools, this blog is not born thanks to there amazing working.
